@@ -1,0 +1,20 @@
+{
+  "name": "thecarbonlayer",
+  "interface": {
+    "displayName": "The Carbon Layer"
+  },
+  "plugins": [
+    {
+      "name": "software-factory",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/thecarbonlayer/software-factory.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

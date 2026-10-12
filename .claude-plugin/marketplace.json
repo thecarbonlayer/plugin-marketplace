@@ -1,0 +1,16 @@
+{
+  "name": "thecarbonlayer",
+  "owner": {
+    "name": "thecarbonlayer"
+  },
+  "plugins": [
+    {
+      "name": "software-factory",
+      "description": "Stage skills and an orchestrator that take a software request from triage to a reviewed draft pull request.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/thecarbonlayer/software-factory.git"
+      }
+    }
+  ]
+}
