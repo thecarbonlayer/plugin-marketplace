@@ -7,13 +7,13 @@ A plugin marketplace for Claude Code and Codex. Each plugin lives in its own rep
 Claude Code:
 
 ```text
-/plugin marketplace add thecarbonlayer/plugins
+/plugin marketplace add thecarbonlayer/plugin-marketplace
 ```
 
 Codex:
 
 ```bash
-codex plugin marketplace add thecarbonlayer/plugins
+codex plugin marketplace add thecarbonlayer/plugin-marketplace
 ```
 
 ## Plugins
